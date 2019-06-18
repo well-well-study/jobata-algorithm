@@ -9,3 +9,4 @@
 스택/큐 | 보통 | 높음 | 6 | [스택/큐](https://github.com/well-well-study/jobata-algorithm/tree/master/problem-kit/stack-queue)
 완전탐색 | 높음 | 낮음 | 4 | [완전탐색](https://github.com/well-well-study/jobata-algorithm/tree/master/problem-kit/exhaustive-search)
 힙 | 보통 | 높음 | 4 | [힙](https://github.com/well-well-study/jobata-algorithm/tree/master/problem-kit/heap)
+탐욕법 | 낮음 | 낮음 | 7 | [탐욕법](https://github.com/well-well-study/jobata-algorithm/tree/master/problem-kit/greedy)
